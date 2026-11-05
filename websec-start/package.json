@@ -1,0 +1,10 @@
+{
+  "name": "websec-start",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "WebSec Start — учебная платформа по веб-пентесту",
+  "dependencies": {
+    "@netlify/blobs": ">=8.1.0"
+  }
+}
